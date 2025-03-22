@@ -36,8 +36,10 @@
   - Chapter 1 (Revised): "The Inheritance" - Introduces Maggie Sullivan and her unexpected inheritance of the lighthouse, culminating in the discovery of the first letter from Eleanor Winters
   - Chapter 2 (Revised): "Echoes from the Past" - Maggie explores the lighthouse property, meets Edward Thorne at the historical society, and begins researching the lighthouse's history
   - Chapter 3 (Revised): "Eleanor's Voice" - Introduces Eleanor's perspective through her letters, deepens the mystery of the altered lighthouse records, and develops the relationship between Maggie and Edward
+  - Chapter 4: "Dinner and Discoveries" - Develops the relationship between Maggie and Edward, introduces James Caldwell as an antagonist, and reveals Eleanor's journal and additional historical clues
+  - Chapter 5: "Converging Paths" - Reveals more about Project Sentinel, the military connection to the lighthouse, and escalates the conflict with James Caldwell
 - **Deliverables In Progress**:
-  - Continuing to draft chapters following the dual timeline structure, alternating between Maggie's present-day investigation and Eleanor's historical narrative through discovered letters
+  - Continuing to draft chapters following the dual timeline structure, alternating between Maggie's present-day investigation and Eleanor's historical narrative through discovered letters and journals
 
 ## Revision Notes
 - **Initial Feedback Implementation (March 22, 2025)**:
@@ -51,5 +53,5 @@
 - Setup and Initialization: 100% complete
 - Phase 1 (Foundation Building): 100% complete
 - Phase 2 (Structural Development): 100% complete
-- Phase 3 (Content Creation): 25% complete
+- Phase 3 (Content Creation): 40% complete
 - Phase 4 (Refinement): Not started
