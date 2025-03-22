@@ -10,7 +10,7 @@
   - Initial structure committed and pushed to GitHub
 
 ## Current Phase
-- **Phase**: 3 - Content Creation (40%)
+- **Phase**: 3 - Content Creation (60%)
 - **Current Task**: Drafting novel chapters
 - **Next Steps**: Continue drafting chapters following the dual timeline structure
 - **Last Updated**: March 22, 2025
@@ -29,7 +29,7 @@
   - Plot.md: Plot architecture including plot point sequencing, cause-effect chain mapping, conflict escalation strategy, turning point analysis, climax construction, resolution design, and narrative gaps planning
   - Mechanics.md: Narrative mechanics including POV implementation strategy, tense and style consistency plan, dialogue attribution approach, exposition distribution, scene-sequel pattern implementation, transition techniques, and time management approach
 
-## Phase 3: Content Creation (40%) - IN PROGRESS
+## Phase 3: Content Creation (60%) - IN PROGRESS
 - **Date Started**: March 22, 2025
 - **Deliverables Completed**:
   - Drafting.md: Comprehensive drafting strategy including productivity metrics, section prioritization approach, challenging section strategy, consistency maintenance plan, momentum preservation techniques, feedback integration points, and revision trigger identification
@@ -39,8 +39,9 @@
   - Chapter 4: "Dinner and Discoveries" - Develops the relationship between Maggie and Edward, introduces James Caldwell as an antagonist, and reveals Eleanor's journal and additional historical clues
   - Chapter 5: "Converging Paths" - Reveals more about Project Sentinel, the military connection to the lighthouse, and escalates the conflict with James Caldwell
   - Chapter 6: "Beneath the Surface" - Maggie discovers classified Cold War documents and technology hidden in the lighthouse, confronts James Caldwell, and learns more about Eleanor's situation after the abrupt end of Project Sentinel
+  - Chapter 7: "Revelations" - Maggie finds Eleanor's later journal revealing Robert Caldwell's treachery, and Thomas Winters makes contact after decades in hiding
 - **Deliverables In Progress**:
-  - Continuing to draft chapters following the dual timeline structure, alternating between Maggie's present-day investigation and Eleanor's historical narrative through discovered letters and journals
+  - Continuing to draft chapters following the dual timeline structure, building toward the climax and resolution of the mystery
 
 ## Revision Notes
 - **Initial Feedback Implementation (March 22, 2025)**:
@@ -54,5 +55,5 @@
 - Setup and Initialization: 100% complete
 - Phase 1 (Foundation Building): 100% complete
 - Phase 2 (Structural Development): 100% complete
-- Phase 3 (Content Creation): 50% complete
+- Phase 3 (Content Creation): 60% complete
 - Phase 4 (Refinement): Not started
