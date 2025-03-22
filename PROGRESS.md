@@ -33,11 +33,19 @@
 - **Date Started**: March 22, 2025
 - **Deliverables Completed**:
   - Drafting.md: Comprehensive drafting strategy including productivity metrics, section prioritization approach, challenging section strategy, consistency maintenance plan, momentum preservation techniques, feedback integration points, and revision trigger identification
-  - Chapter 1: "The Inheritance" - Introduces Maggie Sullivan and her unexpected inheritance of the lighthouse, culminating in the discovery of the first letter from Eleanor Winters
-  - Chapter 2: "Echoes from the Past" - Maggie explores the lighthouse property, meets Edward Thorne at the historical society, and begins researching the lighthouse's history
-  - Chapter 3: "Eleanor's Voice" - Introduces Eleanor's perspective through her letters, deepens the mystery of the altered lighthouse records, and develops the relationship between Maggie and Edward
+  - Chapter 1 (Revised): "The Inheritance" - Introduces Maggie Sullivan and her unexpected inheritance of the lighthouse, culminating in the discovery of the first letter from Eleanor Winters
+  - Chapter 2 (Revised): "Echoes from the Past" - Maggie explores the lighthouse property, meets Edward Thorne at the historical society, and begins researching the lighthouse's history
+  - Chapter 3 (Revised): "Eleanor's Voice" - Introduces Eleanor's perspective through her letters, deepens the mystery of the altered lighthouse records, and develops the relationship between Maggie and Edward
 - **Deliverables In Progress**:
   - Continuing to draft chapters following the dual timeline structure, alternating between Maggie's present-day investigation and Eleanor's historical narrative through discovered letters
+
+## Revision Notes
+- **Initial Feedback Implementation (March 22, 2025)**:
+  - Enhanced "showing" rather than "telling" for character emotions and reactions
+  - Improved dialogue to be more natural and less exposition-heavy
+  - Clarified the connection between James Sullivan (Maggie's cousin) and James Caldwell
+  - Created more meaningful and thematically connected hiding places for Eleanor's letters
+  - Added physical clues related to the Cold War connection (dog tag, photograph)
 
 ## Overall Progress
 - Setup and Initialization: 100% complete
