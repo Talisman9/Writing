@@ -38,6 +38,7 @@
   - Chapter 3 (Revised): "Eleanor's Voice" - Introduces Eleanor's perspective through her letters, deepens the mystery of the altered lighthouse records, and develops the relationship between Maggie and Edward
   - Chapter 4: "Dinner and Discoveries" - Develops the relationship between Maggie and Edward, introduces James Caldwell as an antagonist, and reveals Eleanor's journal and additional historical clues
   - Chapter 5: "Converging Paths" - Reveals more about Project Sentinel, the military connection to the lighthouse, and escalates the conflict with James Caldwell
+  - Chapter 6: "Beneath the Surface" - Maggie discovers classified Cold War documents and technology hidden in the lighthouse, confronts James Caldwell, and learns more about Eleanor's situation after the abrupt end of Project Sentinel
 - **Deliverables In Progress**:
   - Continuing to draft chapters following the dual timeline structure, alternating between Maggie's present-day investigation and Eleanor's historical narrative through discovered letters and journals
 
@@ -53,5 +54,5 @@
 - Setup and Initialization: 100% complete
 - Phase 1 (Foundation Building): 100% complete
 - Phase 2 (Structural Development): 100% complete
-- Phase 3 (Content Creation): 40% complete
+- Phase 3 (Content Creation): 50% complete
 - Phase 4 (Refinement): Not started
