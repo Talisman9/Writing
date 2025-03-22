@@ -12,7 +12,7 @@
 ## Current Phase
 - **Phase**: 3 - Content Creation (40%)
 - **Current Task**: Drafting novel chapters
-- **Next Steps**: Begin drafting opening chapter and first letter discovery scene
+- **Next Steps**: Continue drafting chapters following the dual timeline structure
 - **Last Updated**: March 22, 2025
 
 ## Phase 1: Foundation Building (15%) - COMPLETED
@@ -33,12 +33,15 @@
 - **Date Started**: March 22, 2025
 - **Deliverables Completed**:
   - Drafting.md: Comprehensive drafting strategy including productivity metrics, section prioritization approach, challenging section strategy, consistency maintenance plan, momentum preservation techniques, feedback integration points, and revision trigger identification
+  - Chapter 1: "The Inheritance" - Introduces Maggie Sullivan and her unexpected inheritance of the lighthouse, culminating in the discovery of the first letter from Eleanor Winters
+  - Chapter 2: "Echoes from the Past" - Maggie explores the lighthouse property, meets Edward Thorne at the historical society, and begins researching the lighthouse's history
+  - Chapter 3: "Eleanor's Voice" - Introduces Eleanor's perspective through her letters, deepens the mystery of the altered lighthouse records, and develops the relationship between Maggie and Edward
 - **Deliverables In Progress**:
-  - Novel chapters: Beginning with opening chapter and first letter discovery scene
+  - Continuing to draft chapters following the dual timeline structure, alternating between Maggie's present-day investigation and Eleanor's historical narrative through discovered letters
 
 ## Overall Progress
 - Setup and Initialization: 100% complete
 - Phase 1 (Foundation Building): 100% complete
 - Phase 2 (Structural Development): 100% complete
-- Phase 3 (Content Creation): 10% complete
+- Phase 3 (Content Creation): 25% complete
 - Phase 4 (Refinement): Not started
